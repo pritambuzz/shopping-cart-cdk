@@ -2,7 +2,7 @@
 A big retail brand outlet, on the eve of Christmas, we want to offer attractive seasonal discounts to our
 customers to boost our retail sales.
 Story#1
-As a retail outlet’s salesman, I should be able to calculate the customer's shopping cart bill after considering
+As a retail outletâ€™s salesman, I should be able to calculate the customer's shopping cart bill after considering
 applicable discount rates that are based on the purchase amount and customer type so that our retail outlet
 can maximize sales volume & value.
 
@@ -42,6 +42,8 @@ Customer Type (input): Premium
 | $ 8,000          | $ 7,000       |
 | $ 12,000         | $ 10,200      |
 | $ 20,000         | $ 15,800      |
+
+For testing run ShoppingCartCustomerTestCase test case too verify test data which is list above.
 
 Note:
 Total discount would be the sum of discount calculated for each slab.
